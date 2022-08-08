@@ -5,7 +5,7 @@ class Sort {
         }
         let output = new Array();
 
-        let pivot = array[0];
+        let pivot = numbers[0];
 
         let equal = new Array();
         let left = new Array();
